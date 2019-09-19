@@ -1,0 +1,5 @@
+1. npm install -g create-react-app
+2. npx create-react-app myfirstreact
+3. cd myfirstreact
+4. npm start
+-> change port: open file package.json in line "start": "set port=4200 && react-scripts start"
